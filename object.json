@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "movieName": "Doctor Strange",
+      "movieGenre": "Action",
+      "actors": ["Benedict Cumberbatch", "Rachel McAdams"],
+      "productionCompany": "Marvel Studios",
+      "releaseDate": "October 20, 2016",
+      "quantity": "$677.8 million",
+      "cost": "$200 million"
+    }
+  ],
+
+  [
+    {
+      "movieName": "The Shawshank Redemption",
+      "movieGenre": "Drama",
+      "actors": ["Morgan Freeman, Tim Robbins"],
+      "productionCompany": "Castle Rock Entertainment",
+      "releaseDate": "September 10, 1994",
+      "quantity": "$73 million",
+      "cost": "$25 million"
+    }
+  ],
+  [
+    {
+      "movieName": "Blade Runner",
+      "movieGenre": "Science Fiction",
+      "actors": ["Harrison Ford, Rutger Hauer"],
+      "productionCompany": "The Ladd Company",
+      "releaseDate": "June 25, 1982",
+      "quantity": "$41.6 million",
+      "cost": "30 million"
+    }
+  ]
+]

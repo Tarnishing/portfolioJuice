@@ -1,0 +1,44 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <element>
+         <actors>
+            <element>Benedict Cumberbatch</element>
+            <element>Rachel McAdams</element>
+         </actors>
+         <cost>$200 million</cost>
+         <movieGenre>Action</movieGenre>
+         <movieName>Doctor Strange</movieName>
+         <productionCompany>Marvel Studios</productionCompany>
+         <quantity>$677.8 million</quantity>
+         <releaseDate>October 20, 2016</releaseDate>
+      </element>
+   </element>
+   <element>
+      <element>
+         <actors>
+            <element>Morgan Freeman, Tim Robbins</element>
+         </actors>
+         <cost>$25 million</cost>
+         <movieGenre>Drama</movieGenre>
+         <movieName>The Shawshank Redemption</movieName>
+         <productionCompany>Castle Rock Entertainment</productionCompany>
+         <quantity>$73 million</quantity>
+         <releaseDate>September 10, 1994</releaseDate>
+      </element>
+   </element>
+   <element>
+      <element>
+         <actors>
+            <element>Harrison Ford, Rutger Hauer</element>
+         </actors>
+         <cost>30 million</cost>
+         <movieGenre>Science Fiction</movieGenre>
+         <movieName>Blade Runner</movieName>
+         <productionCompany>The Ladd Company</productionCompany>
+         <quantity>$41.6 million</quantity>
+         <releaseDate>June 25, 1982</releaseDate>
+      </element>
+   </element>
+</root>
